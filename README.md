@@ -11,6 +11,7 @@ In short, you can make money off of this workshop, but you must attribute me for
 - Print out the software development waste worksheet
 - Distribute the copy of the book chapter
 - Draw a 2x2 on a whiteboard or very-large stick-note. X-axis is effort (High effort to Low effort). Y-axis is ROI (High value to Low value).
+- Create 
 
 ## 0:00 Introductions, goals, safe place
 
@@ -21,24 +22,23 @@ Goals:
 * We will be identifying wastes and then prioritizing one to solve. Success is achieving alignment on solving one waste.  
 
 
-## 0:00 Listing
+## Idea Generation
 
 Individually, list on post it notes wastes.
 
-Not everything we genereate has the same value, prioritize your list
+Not everything we generate has the same value, prioritize your list
 
-## 0:00 Hearing the top priorities.
+## Hearing the top priorities.
 
 We'll go around the room in a round-robin fashion. When it is your turn, tell the room the top waste. If other people wrote the same thing, combine sticky-notes. Place the sticky-note on the 2x2. 
 
-
-## 0:00 Wrap-up
+## Wrap-up
 
 This workshop was originally created by Todd Sedano. If you want to learn more about his research into software development, check out his papers on research gate.
 
-## 0:00 (Optional) Collect feedback
+## (Optional) Collect feedback
 
-< I like collecting feedback. >
+< I like collecting feedback. Here are some questions that I use with my workshops. Let me know what you learn. >
 
 * What is something that you liked about the workshop?
 * What would you change in the workshop?
