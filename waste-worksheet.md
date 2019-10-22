@@ -1,32 +1,45 @@
 Identifying software development waste worksheet
 Often we can become accustomed to the wastes in our development process. For each question, reflect and look for wastes. For more details about software development wastes, see http://sedano.org/software-development-wastes/
 
-“Are we delivering features that provide little value?”
+“Which delivered features are providing little value?”
+<br/><br/>
 
-“Is there a misalignment between User Desires and Business Desires?”
+“How are 'user desires' and 'business desires' misaligned?”
+<br/><br/>
 
-“Was there a time when the backlog did not reflect our understanding of the most important work?”
+“When did the backlog did not reflect our understanding of the most important work?”
+<br/><br/>
 
-“Was there a time when the backlog did not reflect the current state of what everyone was doing?”
+“When did the backlog did not reflect the current state of what everyone was doing?”
+<br/><br/>
 
-“Was there rework? e.g. defects, rejected stories, ambiguous stories, technical debt”
+“What did we rework? e.g. defects, rejected stories, ambiguous stories, technical debt”
+<br/><br/>
 
-“Could we have simplified our solutions further?”
+“How could we have simplified our solutions further?”
+<br/><br/>
 
 “What slowed your thinking down? e.g.
 inefficient tools / APIs / libraries, complex stories, poorly organized code”
+<br/><br/>
 
-“Did you feel too much stress?” 
+“How are you feeling too much stress?”
+<br/><br/>
 
-“Did you experience waiting?”
+“How are you experience waiting?”
+<br/><br/>
 
-“Did you experience multitasking?”
+“What is causing you to multitasking?”
+<br/><br/>
 
 “What knowledge is not shared?”
+<br/><br/>
 
-“Did you experience ineffective communication?”
+“How is communication ineffective?”
+<br/><br/>
 
-“Did you experience ineffective meetings?”
+“How are meetings ineffective?”
+<br/><br/>
 
-“Is anything else slowing your team down?”
-
+“What else is slowing your team down?”
+<br/><br/>
