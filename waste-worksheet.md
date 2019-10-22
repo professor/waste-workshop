@@ -43,3 +43,9 @@ inefficient tools / APIs / libraries, complex stories, poorly organized code”
 
 “What else is slowing your team down?”
 <br/><br/>
+
+<br/><br/>
+
+<br/><br/>
+
+This work by Todd Sedano is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
