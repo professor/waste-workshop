@@ -1,9 +1,9 @@
 # Software Development Waste Workshop - Facilitator's Guide
-This is a facilitator's guide to the Waste Workshop
+This is a facilitator's guide to the Waste Workshop™
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-In short, you can make money off of this workshop, but you must attribute me for creating the workshop. You can refer to this as Sedano's Waste Workshop or Sedano's Software Development Waste Workshop. During the workshop, you'll need to reference the research that I have done. All attendees must be given a free copy of <a target="_blank" href="https://www.researchgate.net/publication/332916053_Removing_Software_Development_Waste_to_Improve_Productivity">"Removing Software Development Waste to Improve Productivity."</a> This can be printed or electronic distribution.
+In short, you can make money off of this workshop, but you must attribute me for creating the workshop. You can refer to this as Sedano's Waste Workshop™ or Sedano's Software Development Waste Workshop™. During the workshop, you'll need to reference the research that I have done. All attendees must be given a free copy of <a target="_blank" href="https://www.researchgate.net/publication/332916053_Removing_Software_Development_Waste_to_Improve_Productivity">"Removing Software Development Waste to Improve Productivity."</a> This can be printed or electronic distribution.
 
 ## Preparation
 
