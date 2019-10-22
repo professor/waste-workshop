@@ -1,4 +1,4 @@
-Identifying software development waste worksheet
+# Software Development Waste Worksheet
 Often we can become accustomed to the wastes in our development process. For each question, reflect and look for wastes. For more details about software development wastes, see http://sedano.org/software-development-wastes/
 
 “Which delivered features are providing little value?”
