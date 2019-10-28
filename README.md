@@ -1,9 +1,9 @@
-# Software Development Waste Workshop - Facilitator's Guide
+# Software Development Waste Workshop™ - Facilitator's Guide
 This is a facilitator's guide to the Waste Workshop™
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-In short, you can make money off of this workshop, but you must attribute me for creating the workshop. You can refer to this as Sedano's Waste Workshop™ or Sedano's Software Development Waste Workshop™. During the workshop, you'll need to reference the research that I have done. All attendees must be given a free copy of <a target="_blank" href="https://www.researchgate.net/publication/332916053_Removing_Software_Development_Waste_to_Improve_Productivity">"Removing Software Development Waste to Improve Productivity."</a> This can be printed or electronic distribution.
+In short, you can make money off of this workshop, but you must attribute me for creating the workshop. Attribution can be made during the workshop (e.g. letting attendees know that I made this) or before hand (e.g. refer to this as Sedano's Waste Workshop™) During the workshop, I'll ask you to reference the academic research that I have done on software waste.
 
 ## Preparation
 
@@ -11,10 +11,13 @@ In short, you can make money off of this workshop, but you must attribute me for
 - Acquire black pens and sticky-notes of the same color.
 - Draw a 2x2 on a whiteboard or very-large stick-note. X-axis is effort (High effort to Low effort). Y-axis is ROI (High value to Low value).
 - Bring copies of the [software development waste worksheet](waste-worksheet.md) just in case someone has not done the meeting preparation.
+- Decide whether you want to print or electonically distribute a free copy of <a target="_blank" href="https://www.researchgate.net/publication/332916053_Removing_Software_Development_Waste_to_Improve_Productivity">"Removing Software Development Waste to Improve Productivity."</a>.
 
-## 0:00 Introductions, goals, safe place
+## Introductions, goals, safe place
 
-Welcome. I'm _____. < Tell a story about how you became excited about removing waste. > 
+<Introduce yourself> 
+  
+< (Optional) Tell a personal story about the benefits of removing waste. > 
 
 Goals: 
 * We will be identifying wastes and then prioritizing one to solve. Success is achieving alignment on solving one waste.  
@@ -50,7 +53,7 @@ After we've read the waste, we'll place the sticky-note on the 2x2. The first on
 
 ## Wrap-up
 
-This workshop was originally created by Todd Sedano. If you want to learn more about his research into software development, check out his papers on research gate.
+This workshop was originally created by Todd Sedano. If you want to learn more about his research into software development, check out his papers on research gate. I'll be giving you a book chapter. 
 
 ## (Optional) Collect feedback
 
