@@ -8,7 +8,7 @@ In short, you can make money off of this workshop, but you must attribute me for
 ## Preparation
 
 - Distribute the [software development waste worksheet](waste-worksheet.md) and ask each meeting participant to fill it out before the workshop.
-- Acquire black pens and sticky-notes of the same color.
+- Acquire sticky-notes of the same color and black pens.
 - Draw a 2x2 on a whiteboard or very-large stick-note. X-axis is effort (High effort to Low effort). Y-axis is ROI (High value to Low value).
 - Bring copies of the [software development waste worksheet](waste-worksheet.md) just in case someone has not done the meeting preparation.
 - Decide whether you want to print or electonically distribute a free copy of <a target="_blank" href="https://www.researchgate.net/publication/332916053_Removing_Software_Development_Waste_to_Improve_Productivity">"Removing Software Development Waste to Improve Productivity."</a>.
