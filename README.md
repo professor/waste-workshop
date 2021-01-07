@@ -50,6 +50,19 @@ After we've read the waste, we'll place the sticky-note on the 2x2. The first on
 
 < Limit to top three unless you get serious push back. >
 
+##  Align on the waste to address first
+
+< Once enough wastes have been discussed (typically after three rounds) >
+
+Let's look at the wastes in the upper right of the board. Do we agree that we should address the upper-right most waste first? 
+
+< If this waste is easy to accomplish see if the the attendeess agree to address the next high-value, easily to address waste. >
+
+## (Optional) Action plan for first waste
+
+< If there is time in the meeting >
+
+The goal of this meeting is to identify the first waste to address. Since we have some extra time, we can create a plan on how to address this waste. What steps can we take to address this waste?
 
 ## Wrap-up
 
