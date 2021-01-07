@@ -28,7 +28,7 @@ Goals:
 
 ## Idea Generation
 
-If you have filled in the waste worksheet, that's great. If you'd like a copy, I have some here. Wastes can be sneeky. Teams grow accustomed to their way of working and stop noticing wastes. We normalize our pain. The waste worksheet is a systematic review of software development wastes.
+If you have filled in the waste worksheet, that's great. If you'd like a copy, I have some here. Wastes can be sneaky. Teams grow accustomed to their way of working and stop noticing wastes. We normalize our pain. The waste worksheet is a systematic review of software development wastes.
 
 For each problem that you identify, please put one problem per sticky-note.
 
@@ -44,7 +44,7 @@ We'll go around the room in a round-robin fashion. When it is your turn, tell us
 
 If other people wrote the same thing, we will combine sticky-notes. 
 
-< This is not the time to debate or argue solutions, focus the team on understanding the problem. If people are focued on solutions, try "Can we create a post-it note that represents the problem we are trying to solve?" >
+< This is not the time to debate or argue solutions, focus the team on understanding the problem. If people are focused on solutions, try "Can we create a post-it note that represents the problem we are trying to solve?" >
 
 After we've read the waste, we'll place the sticky-note on the 2x2. The first one can go anywhere. After that we'll compare each item to each other.
 
