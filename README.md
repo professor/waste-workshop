@@ -44,13 +44,13 @@ Not everything we generated has the same value, please prioritize your list. Foc
 
 We'll go around the room in a round-robin fashion. When it is your turn, tell us your top waste. We'd like to get everyone on the same page about the problem. If everyone does not knows what the problem is, please ask clarifying questions. 
 
-If other people wrote the same thing, we will combine sticky-notes. 
-
 < This is not the time to debate or argue solutions, focus the team on understanding the problem. If people are focused on solutions, try "Can we create a post-it note that represents the problem we are trying to solve?" >
 
-After we've read the waste, we'll place the sticky-note on the 2x2. The first one can go anywhere. After that we'll compare each item to each other.
+After we've read the waste, we'll place the sticky-note on the 2x2. The first one can go anywhere. After that we'll compare each item to each other, making necessary adjustment it their positions.
 
-< Limit to top three unless you get serious push back. >
+If other people wrote the same thing, we will combine sticky-notes. 
+
+< Go around the room several times. Limit to top three unless you get serious push back. >
 
 ##  Align on the waste to address first
 
@@ -60,7 +60,7 @@ Let's look at the wastes in the upper right of the board. Do we agree that we sh
 
 < If this waste is easy to accomplish see if the the attendeess agree to address the next high-value, easily to address waste. >
 
-## (Optional) Action plan for first waste
+## (Optional) Create an action plan for first waste
 
 < If there is time in the meeting >
 
