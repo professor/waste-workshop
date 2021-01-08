@@ -28,7 +28,7 @@ Goals:
 ## Review Workshop
 
 
-## Idea Generation
+## Idea generation
 
 If you have filled in the waste worksheet, that's great. If you'd like a copy, I have some here. Wastes can be sneaky. Teams grow accustomed to their way of working and stop noticing wastes. We normalize our pain. The waste worksheet is a systematic review of software development wastes.
 
@@ -36,7 +36,7 @@ For each problem that you identify, please put one problem per sticky-note.
 
 To summarize, here is our prompt: What wastes do you see on your team?
 
-## Idea Filtering
+## Idea filtering
 
 Not everything we generated has the same value, please prioritize your list. Focus on prioritizing your top three to five wastes. 
 
