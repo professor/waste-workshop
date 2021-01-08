@@ -13,6 +13,8 @@ In short, you can make money off of this workshop, but you must attribute me for
 - Bring copies of the [software development waste worksheet](waste-worksheet.md) just in case someone has not done the meeting preparation.
 - Decide whether you want to print or electonically distribute a free copy of <a target="_blank" href="https://www.researchgate.net/publication/332916053_Removing_Software_Development_Waste_to_Improve_Productivity">"Removing Software Development Waste to Improve Productivity."</a>.
 
+![Sample 2x2 grid](2x2-grid.png)
+
 ## Introductions, goals, safe place
 
 <Introduce yourself> 
