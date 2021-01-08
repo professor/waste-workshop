@@ -46,7 +46,7 @@ We'll go around the room in a round-robin fashion. When it is your turn, tell us
 
 < This is not the time to debate or argue solutions, focus the team on understanding the problem. If people are focused on solutions, try "Can we create a post-it note that represents the problem we are trying to solve?" >
 
-After we've read the waste, we'll place the sticky-note on the 2x2. The first one can go anywhere. After that we'll compare each item to each other, making necessary adjustment it their positions.
+After we've read the waste, we'll place the sticky-note on the 2x2. The first one can go anywhere. After that we'll compare each item to each other, making necessary adjustment it their positions. The relative positioning does not need to be perfect, but we will spend more time focusing on the positioning in the upper right quadrant. 
 
 If other people wrote the same thing, we will combine sticky-notes. 
 
